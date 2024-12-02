@@ -1,0 +1,3 @@
+source;share/turtlesim_follower/hook/pythonpath.ps1
+source;share/turtlesim_follower/hook/pythonpath.dsv
+source;share/turtlesim_follower/hook/pythonpath.sh

@@ -1,0 +1,4 @@
+[console_scripts]
+master = turtlesim_follower.master:main
+slave = turtlesim_follower.slave:main
+

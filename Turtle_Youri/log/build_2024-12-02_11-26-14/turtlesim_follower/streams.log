@@ -1,0 +1,47 @@
+[1.644s] Invoking command in '/home/insa/mcar/ros2_ws/Turtle_Youri/src/turtlesim_follower': PYTHONPATH=/home/insa/mcar/ros2_ws/Turtle_Youri/build/turtlesim_follower/prefix_override:/home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_follower build --build-base /home/insa/mcar/ros2_ws/Turtle_Youri/build/turtlesim_follower/build install --record /home/insa/mcar/ros2_ws/Turtle_Youri/build/turtlesim_follower/install.log --single-version-externally-managed
+[1.997s] running egg_info
+[1.998s] creating ../../build/turtlesim_follower/turtlesim_follower.egg-info
+[2.002s] writing ../../build/turtlesim_follower/turtlesim_follower.egg-info/PKG-INFO
+[2.002s] writing dependency_links to ../../build/turtlesim_follower/turtlesim_follower.egg-info/dependency_links.txt
+[2.002s] writing entry points to ../../build/turtlesim_follower/turtlesim_follower.egg-info/entry_points.txt
+[2.002s] writing requirements to ../../build/turtlesim_follower/turtlesim_follower.egg-info/requires.txt
+[2.002s] writing top-level names to ../../build/turtlesim_follower/turtlesim_follower.egg-info/top_level.txt
+[2.002s] writing manifest file '../../build/turtlesim_follower/turtlesim_follower.egg-info/SOURCES.txt'
+[2.005s] reading manifest file '../../build/turtlesim_follower/turtlesim_follower.egg-info/SOURCES.txt'
+[2.008s] writing manifest file '../../build/turtlesim_follower/turtlesim_follower.egg-info/SOURCES.txt'
+[2.009s] running build
+[2.011s] running build_py
+[2.011s] creating /home/insa/mcar/ros2_ws/Turtle_Youri/build/turtlesim_follower/build
+[2.011s] creating /home/insa/mcar/ros2_ws/Turtle_Youri/build/turtlesim_follower/build/lib
+[2.011s] creating /home/insa/mcar/ros2_ws/Turtle_Youri/build/turtlesim_follower/build/lib/turtlesim_follower
+[2.011s] copying turtlesim_follower/master.py -> /home/insa/mcar/ros2_ws/Turtle_Youri/build/turtlesim_follower/build/lib/turtlesim_follower
+[2.013s] copying turtlesim_follower/__init__.py -> /home/insa/mcar/ros2_ws/Turtle_Youri/build/turtlesim_follower/build/lib/turtlesim_follower
+[2.013s] copying turtlesim_follower/slave.py -> /home/insa/mcar/ros2_ws/Turtle_Youri/build/turtlesim_follower/build/lib/turtlesim_follower
+[2.014s] running install
+[2.017s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.017s]   warnings.warn(
+[2.017s] running install_lib
+[2.019s] creating /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/lib/python3.10/site-packages/turtlesim_follower
+[2.019s] copying /home/insa/mcar/ros2_ws/Turtle_Youri/build/turtlesim_follower/build/lib/turtlesim_follower/master.py -> /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/lib/python3.10/site-packages/turtlesim_follower
+[2.019s] copying /home/insa/mcar/ros2_ws/Turtle_Youri/build/turtlesim_follower/build/lib/turtlesim_follower/__init__.py -> /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/lib/python3.10/site-packages/turtlesim_follower
+[2.019s] copying /home/insa/mcar/ros2_ws/Turtle_Youri/build/turtlesim_follower/build/lib/turtlesim_follower/slave.py -> /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/lib/python3.10/site-packages/turtlesim_follower
+[2.021s] byte-compiling /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/lib/python3.10/site-packages/turtlesim_follower/master.py to master.cpython-310.pyc
+[2.021s] byte-compiling /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/lib/python3.10/site-packages/turtlesim_follower/__init__.py to __init__.cpython-310.pyc
+[2.021s] byte-compiling /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/lib/python3.10/site-packages/turtlesim_follower/slave.py to slave.cpython-310.pyc
+[2.022s] running install_data
+[2.024s] creating /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/share
+[2.024s] creating /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/share/ament_index
+[2.024s] creating /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/share/ament_index/resource_index
+[2.025s] creating /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/share/ament_index/resource_index/packages
+[2.026s] copying resource/turtlesim_follower -> /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/share/ament_index/resource_index/packages
+[2.026s] creating /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/share/turtlesim_follower
+[2.027s] copying package.xml -> /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/share/turtlesim_follower
+[2.028s] creating /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/share/turtlesim_follower/launch
+[2.028s] copying launch/turtles_follow_launch.py -> /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/share/turtlesim_follower/launch
+[2.031s] running install_egg_info
+[2.033s] Copying ../../build/turtlesim_follower/turtlesim_follower.egg-info to /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/lib/python3.10/site-packages/turtlesim_follower-0.0.0-py3.10.egg-info
+[2.036s] running install_scripts
+[2.068s] Installing master script to /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/lib/turtlesim_follower
+[2.069s] Installing slave script to /home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/lib/turtlesim_follower
+[2.070s] writing list of installed files to '/home/insa/mcar/ros2_ws/Turtle_Youri/build/turtlesim_follower/install.log'
+[2.102s] Invoked command in '/home/insa/mcar/ros2_ws/Turtle_Youri/src/turtlesim_follower' returned '0': PYTHONPATH=/home/insa/mcar/ros2_ws/Turtle_Youri/build/turtlesim_follower/prefix_override:/home/insa/mcar/ros2_ws/Turtle_Youri/install/turtlesim_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_follower build --build-base /home/insa/mcar/ros2_ws/Turtle_Youri/build/turtlesim_follower/build install --record /home/insa/mcar/ros2_ws/Turtle_Youri/build/turtlesim_follower/install.log --single-version-externally-managed
